@@ -1,26 +1,26 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Flixster*
 
-**Name of your app** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
+**Flixster** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-* [YES] User can **scroll through current movies** from the Movie Database API
-* [YES] Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
-* [YES] For each movie displayed, user can see the following details:
-  * [YES] Title, Poster Image, Overview (Portrait mode)
-  * [YES] Title, Backdrop Image, Overview (Landscape mode)
-* [YES] Allow user to view details of the movie including ratings within a separate activity
+* [X] User can **scroll through current movies** from the Movie Database API
+* [X] Display a nice default [placeholder graphic](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#advanced-usage) for each image during loading
+* [X] For each movie displayed, user can see the following details:
+  * [X] Title, Poster Image, Overview (Portrait mode)
+  * [X] Title, Backdrop Image, Overview (Landscape mode)
+* [X] Allow user to view details of the movie including ratings within a separate activity
 
 The following **stretch** features are implemented:
 
-* [YES] Improved the user interface by experimenting with styling and coloring.
-* [YES] Apply rounded corners for the poster or background images using [Glide transformations](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#transformations)
-* [YES] Apply the popular [View Binding annotation library](http://guides.codepath.org/android/Reducing-View-Boilerplate-with-ViewBinding) to reduce boilerplate code.
-* [YES] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
+* [X] Improved the user interface by experimenting with styling and coloring.
+* [X] Apply rounded corners for the poster or background images using [Glide transformations](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#transformations)
+* [X] Apply the popular [View Binding annotation library](http://guides.codepath.org/android/Reducing-View-Boilerplate-with-ViewBinding) to reduce boilerplate code.
+* [X] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
 
 The following **additional** features are implemented:
 
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Esha Shah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
